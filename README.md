@@ -102,3 +102,8 @@
 * حافظ على الـ Connection String في `appsettings.json` بدل ما يكون مكتوب صريح في الكود.
 
 ---
+
+## 🙌 Credits
+
+Special thanks to **El-Moallem Qenna (CodeGraphia on YouTube)** for the amazing tutorials and guidance that inspired this project.  
+Check out his channel here: [CodeGraphia on YouTube](https://www.youtube.com/@CodeGraphia) 🎥
